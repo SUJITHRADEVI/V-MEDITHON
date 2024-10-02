@@ -4,17 +4,17 @@
 
 # Project Overview
 This project is a Multiple Disease Prediction System that leverages machine learning models to predict the likelihood of various diseases, including:
-- Heart Disease
-- Diabetes
-- Parkinson's Disease
-The system is designed to assist healthcare professionals and individuals in early disease detection, enabling timely medical intervention and potentially improving patient outcomes.
+- **Heart Disease**
+- **Diabetes**
+- **Parkinson's Disease**
+- The system is designed to assist healthcare professionals and individuals in early disease detection, enabling timely medical intervention and potentially improving patient outcomes.
 
 # Features
-- Heart Disease Prediction: Based on various health parameters like age, cholesterol levels, and blood pressure.
-- Diabetes Prediction: Uses factors such as glucose levels, BMI, and insulin levels.
-- Parkinson's Disease Prediction: Uses data points related to speech and motor symptoms.
-- User-Friendly Interface: Provides an intuitive interface for inputting patient data and receiving predictions.
-- Scalable Models: Machine learning models can be updated or extended to include more diseases.
+- **Heart Disease Prediction:** Based on various health parameters like age, cholesterol levels, and blood pressure.
+- **Diabetes Prediction:** Uses factors such as glucose levels, BMI, and insulin levels.
+- **Parkinson's Disease Prediction:** Uses data points related to speech and motor symptoms.
+- **User-Friendly Interface:** Provides an intuitive interface for inputting patient data and receiving predictions.
+- **Scalable Models:** Machine learning models can be updated or extended to include more diseases.
 
 # Technologies Used
 - **Python:** Core programming language.
